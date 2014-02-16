@@ -1,0 +1,7 @@
+.pyc
+*.egg-info
+debris.sublime-workspace
+venv
+Watch
+
+*.sublime-workspace
