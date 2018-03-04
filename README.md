@@ -1,1 +1,1 @@
-# Signals [![Build Status](https://secure.travis-ci.org/stevepeak/signals.png)](http://travis-ci.org/stevepeak/signals) [![Version](https://pypip.in/v/signals/badge.png)](https://github.com/stevepeak/signals)
+# Signals [![Build Status](https://secure.travis-ci.org/stevepeak/signals.png)](http://travis-ci.org/stevepeak/signals) [![Version](https://img.shields.io/pypi/v/signals.svg)](https://github.com/stevepeak/signals)
